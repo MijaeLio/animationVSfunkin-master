@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GreenBand.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green hit 10000" x="0" y="0" width="261" height="411" frameX="0" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10001" x="261" y="0" width="261" height="411" frameX="0" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10002" x="522" y="0" width="260" height="412" frameX="-1" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10003" x="782" y="0" width="260" height="412" frameX="-1" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10004" x="1042" y="0" width="259" height="412" frameX="-2" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10005" x="1301" y="0" width="259" height="412" frameX="-2" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10006" x="1560" y="0" width="258" height="412" frameX="-3" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10007" x="0" y="412" width="258" height="412" frameX="-3" frameY="-16" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10008" x="258" y="412" width="258" height="411" frameX="-3" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10009" x="258" y="412" width="258" height="411" frameX="-3" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10010" x="258" y="412" width="258" height="411" frameX="-3" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 10011" x="258" y="412" width="258" height="411" frameX="-3" frameY="-17" frameWidth="261" frameHeight="412"/>
+	<SubTexture name="green hit 20000" x="516" y="412" width="271" height="384" frameX="0" frameY="-44" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20001" x="787" y="412" width="271" height="384" frameX="0" frameY="-44" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20002" x="1058" y="412" width="269" height="389" frameX="-2" frameY="-39" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20003" x="1327" y="412" width="269" height="389" frameX="-2" frameY="-39" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20004" x="1596" y="412" width="267" height="393" frameX="-4" frameY="-35" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20005" x="0" y="824" width="267" height="393" frameX="-4" frameY="-35" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20006" x="267" y="824" width="266" height="398" frameX="-5" frameY="-30" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20007" x="533" y="824" width="266" height="398" frameX="-5" frameY="-30" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20008" x="799" y="824" width="266" height="399" frameX="-5" frameY="-29" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20009" x="799" y="824" width="266" height="399" frameX="-5" frameY="-29" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20010" x="799" y="824" width="266" height="399" frameX="-5" frameY="-29" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green hit 20011" x="799" y="824" width="266" height="399" frameX="-5" frameY="-29" frameWidth="271" frameHeight="399"/>
+	<SubTexture name="green idle0000" x="1065" y="824" width="251" height="409" frameX="0" frameY="-19" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0001" x="1065" y="824" width="251" height="409" frameX="0" frameY="-19" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0002" x="1316" y="824" width="250" height="407" frameX="-1" frameY="-21" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0003" x="1316" y="824" width="250" height="407" frameX="-1" frameY="-21" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0004" x="1566" y="824" width="249" height="413" frameX="-2" frameY="-15" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0005" x="1566" y="824" width="249" height="413" frameX="-2" frameY="-15" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0006" x="0" y="1237" width="248" height="422" frameX="-3" frameY="-6" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0007" x="0" y="1237" width="248" height="422" frameX="-3" frameY="-6" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0008" x="248" y="1237" width="247" height="426" frameX="-4" frameY="-2" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0009" x="248" y="1237" width="247" height="426" frameX="-4" frameY="-2" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0010" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0011" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0012" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0013" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0014" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+	<SubTexture name="green idle0015" x="495" y="1237" width="247" height="428" frameX="-4" frameY="0" frameWidth="251" frameHeight="428"/>
+</TextureAtlas>

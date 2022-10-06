@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-205,
+				-490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-320,
+				-403
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle00"
+		},
+		{
+			"offsets": [
+				-317,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-238,
+				-562
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-294,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				49,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "seeingIcon",
+			"indices": [],
+			"name": "idle-alt"
+		},
+		{
+			"offsets": [
+				-202,
+				-468
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				-236,
+				-538
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				-316,
+				-416
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				-293,
+				-351
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				-393
+			],
+			"anim": "looking",
+			"fps": 24,
+			"name": "looking",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/red_stick",
+	"position": [
+		-80,
+		-240
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		250,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tsc_guitar.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TSC idle0000" x="40" y="40" width="475" height="509" frameX="-1" frameY="-24" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0001" x="555" y="40" width="475" height="509" frameX="-1" frameY="-24" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0002" x="1070" y="40" width="477" height="507" frameX="0" frameY="-26" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0003" x="1587" y="40" width="477" height="507" frameX="0" frameY="-26" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0004" x="2104" y="40" width="475" height="518" frameX="-1" frameY="-15" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0005" x="2619" y="40" width="475" height="518" frameX="-1" frameY="-15" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0006" x="3134" y="40" width="474" height="526" frameX="-1" frameY="-7" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0007" x="40" y="606" width="474" height="526" frameX="-1" frameY="-7" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0008" x="554" y="606" width="473" height="531" frameX="-1" frameY="-2" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0009" x="1067" y="606" width="473" height="531" frameX="-1" frameY="-2" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0010" x="1580" y="606" width="473" height="533" frameX="-1" frameY="0" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0011" x="2093" y="606" width="473" height="533" frameX="-1" frameY="0" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0012" x="2606" y="606" width="473" height="533" frameX="-1" frameY="0" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0013" x="3119" y="606" width="473" height="533" frameX="-1" frameY="0" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSC idle0014" x="40" y="1179" width="473" height="533" frameX="-1" frameY="0" frameWidth="477" frameHeight="533"/>
+	<SubTexture name="TSCdown0000" x="553" y="1179" width="450" height="351" frameX="0" frameY="-31" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0001" x="1043" y="1179" width="450" height="351" frameX="0" frameY="-31" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0002" x="1533" y="1179" width="445" height="365" frameX="-4" frameY="-17" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0003" x="2018" y="1179" width="445" height="365" frameX="-4" frameY="-17" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0004" x="2503" y="1179" width="445" height="377" frameX="-4" frameY="-5" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0005" x="2988" y="1179" width="445" height="377" frameX="-4" frameY="-5" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0006" x="3473" y="1179" width="446" height="382" frameX="-3" frameY="0" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCdown0007" x="40" y="1752" width="446" height="382" frameX="-3" frameY="0" frameWidth="450" frameHeight="382"/>
+	<SubTexture name="TSCleft0000" x="526" y="1752" width="463" height="490" frameX="-41" frameY="-10" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0001" x="1029" y="1752" width="463" height="490" frameX="-41" frameY="-10" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0002" x="1532" y="1752" width="466" height="490" frameX="-45" frameY="-10" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0003" x="2038" y="1752" width="491" height="490" frameX="-20" frameY="-10" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0004" x="2569" y="1752" width="513" height="498" frameX="-5" frameY="-2" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0005" x="3122" y="1752" width="518" height="498" frameX="0" frameY="-2" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0006" x="40" y="2290" width="463" height="500" frameX="-56" frameY="0" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCleft0007" x="543" y="2290" width="463" height="500" frameX="-56" frameY="0" frameWidth="519" frameHeight="500"/>
+	<SubTexture name="TSCright0000" x="1046" y="2290" width="477" height="502" frameX="0" frameY="-3" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0001" x="1563" y="2290" width="477" height="502" frameX="0" frameY="-3" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0002" x="2080" y="2290" width="451" height="503" frameX="-2" frameY="-2" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0003" x="2571" y="2290" width="451" height="503" frameX="-2" frameY="-2" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0004" x="3062" y="2290" width="444" height="504" frameX="-3" frameY="-1" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0005" x="3546" y="2290" width="443" height="504" frameX="-3" frameY="-1" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0006" x="40" y="2834" width="441" height="505" frameX="-3" frameY="0" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCright0007" x="521" y="2834" width="441" height="505" frameX="-3" frameY="0" frameWidth="477" frameHeight="505"/>
+	<SubTexture name="TSCup0000" x="1002" y="2834" width="432" height="578" frameX="0" frameY="0" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0001" x="1474" y="2834" width="432" height="578" frameX="0" frameY="0" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0002" x="1946" y="2834" width="436" height="569" frameX="-4" frameY="-6" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0003" x="2422" y="2834" width="436" height="569" frameX="-4" frameY="-6" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0004" x="2898" y="2834" width="438" height="567" frameX="-7" frameY="-10" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0005" x="3376" y="2834" width="438" height="567" frameX="-7" frameY="-10" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0006" x="40" y="3452" width="439" height="566" frameX="-8" frameY="-11" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0007" x="519" y="3452" width="439" height="566" frameX="-8" frameY="-11" frameWidth="447" frameHeight="578"/>
+	<SubTexture name="TSCup0008" x="998" y="3452" width="439" height="566" frameX="-8" frameY="-11" frameWidth="447" frameHeight="578"/>
+</TextureAtlas>

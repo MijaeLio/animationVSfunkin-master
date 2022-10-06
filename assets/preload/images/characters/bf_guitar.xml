@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_guitar.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="542" height="412" pivotX="0" pivotY="0" frameX="0" frameY="-11" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0001" x="552" y="0" width="542" height="413" frameX="0" frameY="-10" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0002" x="1104" y="0" width="541" height="414" frameX="-1" frameY="-9" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0003" x="1655" y="0" width="543" height="417" frameX="-3" frameY="-6" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0004" x="2208" y="0" width="544" height="421" frameX="-5" frameY="-3" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0005" x="2762" y="0" width="544" height="422" frameX="-8" frameY="-2" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0006" x="3316" y="0" width="545" height="423" frameX="-10" frameY="-1" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0007" x="3871" y="0" width="544" height="424" frameX="-11" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0008" x="4425" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0009" x="4979" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0010" x="5533" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0011" x="6087" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0012" x="6641" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="Idle0013" x="7195" y="0" width="544" height="424" frameX="-12" frameY="0" frameWidth="556" frameHeight="424"/>
+	<SubTexture name="down0000" x="0" y="434" width="541" height="412" pivotX="-13.45" pivotY="-11.5" frameX="0" frameY="0" frameWidth="552" frameHeight="412"/>
+	<SubTexture name="down0001" x="551" y="434" width="535" height="397" frameX="-8" frameY="-14" frameWidth="552" frameHeight="412"/>
+	<SubTexture name="down0002" x="1096" y="434" width="533" height="395" frameX="-13" frameY="-16" frameWidth="552" frameHeight="412"/>
+	<SubTexture name="down0003" x="1639" y="434" width="535" height="396" frameX="-17" frameY="-15" frameWidth="552" frameHeight="412"/>
+	<SubTexture name="down0004" x="2184" y="434" width="541" height="409" frameX="-10" frameY="-3" frameWidth="552" frameHeight="412"/>
+	<SubTexture name="down miss0000" x="2735" y="434" width="541" height="403" pivotX="-13.45" pivotY="-8.45" frameX="0" frameY="-13" frameWidth="541" frameHeight="416"/>
+	<SubTexture name="down miss0001" x="3286" y="434" width="541" height="414" frameX="0" frameY="0" frameWidth="541" frameHeight="416"/>
+	<SubTexture name="down miss0002" x="3837" y="434" width="541" height="412" frameX="0" frameY="-3" frameWidth="541" frameHeight="416"/>
+	<SubTexture name="down miss0003" x="4388" y="434" width="541" height="412" frameX="0" frameY="-3" frameWidth="541" frameHeight="416"/>
+	<SubTexture name="down miss0004" x="4939" y="434" width="541" height="412" frameX="0" frameY="-3" frameWidth="541" frameHeight="416"/>
+	<SubTexture name="guitar0000" x="5490" y="434" width="409" height="408" pivotX="-9.85" pivotY="205.85" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0001" x="5909" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0002" x="6328" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0003" x="6747" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0004" x="7166" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0005" x="7166" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0006" x="7585" y="434" width="409" height="408" frameX="-102" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0007" x="0" y="858" width="408" height="408" frameX="-103" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0008" x="418" y="858" width="404" height="408" frameX="-107" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0009" x="832" y="858" width="372" height="408" frameX="-139" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0010" x="1214" y="858" width="367" height="408" frameX="-144" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0011" x="1591" y="858" width="465" height="408" frameX="-46" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0012" x="2066" y="858" width="417" height="425" frameX="-94" frameY="-220" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0013" x="2493" y="858" width="459" height="538" frameX="-52" frameY="-172" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0014" x="2962" y="858" width="460" height="536" frameX="-51" frameY="-170" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0015" x="2962" y="858" width="460" height="536" frameX="-51" frameY="-170" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0016" x="3432" y="858" width="450" height="531" frameX="-61" frameY="-175" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0017" x="3432" y="858" width="450" height="531" frameX="-61" frameY="-175" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0018" x="3892" y="858" width="485" height="478" frameX="-26" frameY="-227" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0019" x="4387" y="858" width="544" height="434" frameX="-2" frameY="-194" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0020" x="4941" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0021" x="4941" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0022" x="4941" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0023" x="4941" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0024" x="4941" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0025" x="5495" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0026" x="6049" y="858" width="544" height="423" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0027" x="6603" y="858" width="607" height="424" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0028" x="7220" y="858" width="649" height="424" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0029" x="0" y="1406" width="655" height="424" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0030" x="665" y="1406" width="635" height="424" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0031" x="1310" y="1406" width="604" height="662" frameX="0" frameY="0" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0032" x="1924" y="1406" width="602" height="651" frameX="-2" frameY="0" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0033" x="2536" y="1406" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0034" x="3088" y="1406" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0035" x="3640" y="1406" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0036" x="4192" y="1406" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0037" x="4744" y="1406" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0038" x="5296" y="1406" width="972" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0039" x="6278" y="1406" width="1341" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0040" x="0" y="2078" width="587" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0041" x="597" y="2078" width="589" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0042" x="1196" y="2078" width="584" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0043" x="1790" y="2078" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0044" x="2342" y="2078" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="guitar0045" x="2894" y="2078" width="542" height="442" frameX="-3" frameY="-205" frameWidth="1344" frameHeight="710"/>
+	<SubTexture name="left0000" x="3446" y="2078" width="542" height="413" pivotX="33.55" pivotY="-4.35" frameX="-21" frameY="-7" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left0001" x="3998" y="2078" width="542" height="416" frameX="-3" frameY="-4" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left0002" x="4550" y="2078" width="542" height="420" frameX="0" frameY="0" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left0003" x="5102" y="2078" width="542" height="420" frameX="0" frameY="0" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left0004" x="5654" y="2078" width="541" height="417" frameX="-5" frameY="-3" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left0005" x="6205" y="2078" width="542" height="417" frameX="-18" frameY="-3" frameWidth="563" frameHeight="420"/>
+	<SubTexture name="left miss0000" x="6757" y="2078" width="541" height="421" pivotX="19.8" pivotY="-12.4" frameX="0" frameY="-6" frameWidth="552" frameHeight="427"/>
+	<SubTexture name="left miss0001" x="7308" y="2078" width="543" height="423" frameX="-9" frameY="-4" frameWidth="552" frameHeight="427"/>
+	<SubTexture name="left miss0002" x="0" y="2530" width="542" height="427" frameX="-7" frameY="0" frameWidth="552" frameHeight="427"/>
+	<SubTexture name="left miss0003" x="552" y="2530" width="542" height="427" frameX="-7" frameY="0" frameWidth="552" frameHeight="427"/>
+	<SubTexture name="left miss0004" x="1104" y="2530" width="542" height="427" frameX="-7" frameY="0" frameWidth="552" frameHeight="427"/>
+	<SubTexture name="right0000" x="1656" y="2530" width="544" height="424" pivotX="-53.5" pivotY="9.9" frameX="0" frameY="-9" frameWidth="578" frameHeight="433"/>
+	<SubTexture name="right0001" x="2210" y="2530" width="544" height="428" frameX="-23" frameY="-5" frameWidth="578" frameHeight="433"/>
+	<SubTexture name="right0002" x="2764" y="2530" width="543" height="433" frameX="-33" frameY="0" frameWidth="578" frameHeight="433"/>
+	<SubTexture name="right0003" x="3317" y="2530" width="543" height="433" frameX="-35" frameY="0" frameWidth="578" frameHeight="433"/>
+	<SubTexture name="right0004" x="3870" y="2530" width="544" height="424" frameX="-6" frameY="-9" frameWidth="578" frameHeight="433"/>
+	<SubTexture name="right miss0000" x="4424" y="2530" width="542" height="442" pivotX="-50.6" pivotY="7.55" frameX="-15" frameY="0" frameWidth="557" frameHeight="442"/>
+	<SubTexture name="right miss0001" x="4976" y="2530" width="544" height="442" frameX="0" frameY="0" frameWidth="557" frameHeight="442"/>
+	<SubTexture name="right miss0002" x="5530" y="2530" width="544" height="442" frameX="-3" frameY="0" frameWidth="557" frameHeight="442"/>
+	<SubTexture name="right miss0003" x="6084" y="2530" width="544" height="442" frameX="-3" frameY="0" frameWidth="557" frameHeight="442"/>
+	<SubTexture name="right miss0004" x="6638" y="2530" width="544" height="442" frameX="-3" frameY="0" frameWidth="557" frameHeight="442"/>
+	<SubTexture name="up0000" x="7192" y="2530" width="486" height="461" pivotX="-35.1" pivotY="34.8" frameX="-4" frameY="-24" frameWidth="494" frameHeight="485"/>
+	<SubTexture name="up0001" x="7688" y="2530" width="477" height="477" frameX="-8" frameY="-3" frameWidth="494" frameHeight="485"/>
+	<SubTexture name="up0002" x="0" y="3017" width="475" height="475" frameX="-11" frameY="0" frameWidth="494" frameHeight="485"/>
+	<SubTexture name="up0003" x="485" y="3017" width="477" height="473" frameX="-12" frameY="-3" frameWidth="494" frameHeight="485"/>
+	<SubTexture name="up0004" x="972" y="3017" width="494" height="469" frameX="0" frameY="-13" frameWidth="494" frameHeight="485"/>
+	<SubTexture name="up miss0000" x="1476" y="3017" width="491" height="471" pivotX="-31.25" pivotY="21.85" frameX="-13" frameY="0" frameWidth="504" frameHeight="472"/>
+	<SubTexture name="up miss0001" x="1977" y="3017" width="495" height="457" frameX="0" frameY="-15" frameWidth="504" frameHeight="472"/>
+	<SubTexture name="up miss0002" x="2482" y="3017" width="493" height="464" frameX="-8" frameY="-8" frameWidth="504" frameHeight="472"/>
+	<SubTexture name="up miss0003" x="2985" y="3017" width="493" height="464" frameX="-8" frameY="-8" frameWidth="504" frameHeight="472"/>
+	<SubTexture name="up miss0004" x="3488" y="3017" width="493" height="464" frameX="-8" frameY="-8" frameWidth="504" frameHeight="472"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TCO.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Back instance 10000" x="0" y="0" width="2161" height="431"/>
+	<SubTexture name="Back instance 10001" x="2161" y="0" width="2161" height="431"/>
+	<SubTexture name="Back instance 10002" x="4322" y="0" width="2161" height="431"/>
+	<SubTexture name="Back instance 10003" x="0" y="431" width="2161" height="431"/>
+	<SubTexture name="Back instance 10004" x="2161" y="431" width="2161" height="431"/>
+	<SubTexture name="Back instance 10005" x="4322" y="431" width="2161" height="431"/>
+	<SubTexture name="Back instance 10006" x="0" y="862" width="2161" height="431"/>
+	<SubTexture name="Back instance 10007" x="2161" y="862" width="2161" height="431"/>
+	<SubTexture name="Back instance 10008" x="4322" y="862" width="2161" height="431"/>
+	<SubTexture name="Back instance 10009" x="0" y="1293" width="2161" height="431"/>
+	<SubTexture name="Back instance 10010" x="2161" y="1293" width="2161" height="431"/>
+</TextureAtlas>

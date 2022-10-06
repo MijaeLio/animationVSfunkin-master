@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GLITCHNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="191" height="203" frameX="0" frameY="-89" frameWidth="218" frameHeight="336"/>
+	<SubTexture name="blue0001" x="191" y="0" width="206" height="182" frameX="-12" frameY="-72" frameWidth="218" frameHeight="336"/>
+	<SubTexture name="blue0002" x="397" y="0" width="178" height="214" frameX="-12" frameY="-83" frameWidth="218" frameHeight="336"/>
+	<SubTexture name="blue0003" x="575" y="0" width="156" height="336" frameX="-13" frameY="0" frameWidth="218" frameHeight="336"/>
+	<SubTexture name="green0000" x="731" y="0" width="157" height="270" frameX="-13" frameY="0" frameWidth="198" frameHeight="292"/>
+	<SubTexture name="green0001" x="0" y="336" width="157" height="229" frameX="-13" frameY="-63" frameWidth="198" frameHeight="292"/>
+	<SubTexture name="green0002" x="157" y="336" width="198" height="174" frameX="0" frameY="-95" frameWidth="198" frameHeight="292"/>
+	<SubTexture name="green0003" x="355" y="336" width="138" height="235" frameX="-51" frameY="-38" frameWidth="198" frameHeight="292"/>
+	<SubTexture name="purple0000" x="493" y="336" width="259" height="151" frameX="0" frameY="0" frameWidth="260" frameHeight="167"/>
+	<SubTexture name="purple0001" x="752" y="336" width="213" height="157" frameX="-47" frameY="-10" frameWidth="260" frameHeight="167"/>
+	<SubTexture name="purple0002" x="0" y="571" width="210" height="151" frameX="-42" frameY="-12" frameWidth="260" frameHeight="167"/>
+	<SubTexture name="purple0003" x="210" y="571" width="219" height="157" frameX="-25" frameY="-10" frameWidth="260" frameHeight="167"/>
+	<SubTexture name="red0000" x="429" y="571" width="292" height="157" frameX="0" frameY="-5" frameWidth="308" frameHeight="162"/>
+	<SubTexture name="red0001" x="721" y="571" width="259" height="129" frameX="-49" frameY="-32" frameWidth="308" frameHeight="162"/>
+	<SubTexture name="red0002" x="0" y="728" width="274" height="140" frameX="-17" frameY="-5" frameWidth="308" frameHeight="162"/>
+	<SubTexture name="red0003" x="274" y="728" width="285" height="162" frameX="-23" frameY="0" frameWidth="308" frameHeight="162"/>
+</TextureAtlas>

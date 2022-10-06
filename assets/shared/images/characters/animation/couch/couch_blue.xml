@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="couch_blue.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="5" y="5" width="941" height="403"/>
+	<SubTexture name="blue0001" x="5" y="5" width="941" height="403"/>
+	<SubTexture name="blue0002" x="971" y="5" width="941" height="403"/>
+	<SubTexture name="blue0003" x="971" y="5" width="941" height="403"/>
+	<SubTexture name="blue0004" x="5" y="433" width="941" height="403"/>
+	<SubTexture name="blue0005" x="5" y="433" width="941" height="403"/>
+	<SubTexture name="blue0006" x="971" y="433" width="941" height="403"/>
+	<SubTexture name="blue0007" x="971" y="433" width="941" height="403"/>
+	<SubTexture name="blue0008" x="5" y="861" width="941" height="403"/>
+	<SubTexture name="blue0009" x="5" y="861" width="941" height="403"/>
+	<SubTexture name="blue0010" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0011" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0012" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0013" x="5" y="1289" width="941" height="403"/>
+	<SubTexture name="blue0014" x="5" y="1289" width="941" height="403"/>
+	<SubTexture name="blue0015" x="5" y="5" width="941" height="403"/>
+	<SubTexture name="blue0016" x="5" y="5" width="941" height="403"/>
+	<SubTexture name="blue0017" x="971" y="5" width="941" height="403"/>
+	<SubTexture name="blue0018" x="971" y="5" width="941" height="403"/>
+	<SubTexture name="blue0019" x="5" y="433" width="941" height="403"/>
+	<SubTexture name="blue0020" x="5" y="433" width="941" height="403"/>
+	<SubTexture name="blue0021" x="971" y="433" width="941" height="403"/>
+	<SubTexture name="blue0022" x="971" y="433" width="941" height="403"/>
+	<SubTexture name="blue0023" x="5" y="861" width="941" height="403"/>
+	<SubTexture name="blue0024" x="5" y="861" width="941" height="403"/>
+	<SubTexture name="blue0025" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0026" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0027" x="971" y="861" width="941" height="403"/>
+	<SubTexture name="blue0028" x="5" y="1289" width="941" height="403"/>
+	<SubTexture name="blue0029" x="5" y="1289" width="941" height="403"/>
+</TextureAtlas>

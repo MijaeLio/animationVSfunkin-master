@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Red_icon.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Red_icon_fucked0000" x="0" y="0" width="254" height="257" frameX="-87" frameY="-65" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="Red_icon_fucked0001" x="254" y="0" width="227" height="228" frameX="-114" frameY="-65" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="Red_icon_fucked0002" x="481" y="0" width="409" height="408"/>
+	<SubTexture name="Red_icon_fucked0003" x="0" y="408" width="227" height="227" frameX="-114" frameY="-65" frameWidth="409" frameHeight="408"/>
+	<SubTexture name="Red_icon_healthy0000" x="227" y="408" width="229" height="232" frameX="-45" frameY="0" frameWidth="275" frameHeight="277"/>
+	<SubTexture name="Red_icon_healthy0001" x="456" y="408" width="227" height="227" frameX="-47" frameY="0" frameWidth="275" frameHeight="277"/>
+	<SubTexture name="Red_icon_healthy0002" x="683" y="408" width="275" height="277"/>
+	<SubTexture name="Red_icon_healthy0003" x="0" y="685" width="227" height="227" frameX="-47" frameY="0" frameWidth="275" frameHeight="277"/>
+</TextureAtlas>

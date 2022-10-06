@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-43
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beestick-right"
+		},
+		{
+			"offsets": [
+				-6,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beestick-up"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beestick-down"
+		},
+		{
+			"offsets": [
+				91,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beestick-left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "beestick-idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/beestick",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "beestick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		3
+	],
+	"camera_position": [
+		-120,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

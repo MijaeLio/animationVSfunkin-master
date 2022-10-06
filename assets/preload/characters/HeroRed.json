@@ -1,0 +1,79 @@
+{
+	"animations": [
+				0,
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				754
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HeroRed Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HeroRed Down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				821
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HeroRed Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-297,
+				583
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HeroRed Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				783
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HeroRed Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/HeroRed",
+	"position": [
+		0,
+		-80
+	],
+	"healthicon": "herored",
+	"flip_x": false,
+	"healthbar_colors": [
+		6,
+		3,
+		11
+	],
+	"camera_position": [
+		-200,
+		-930
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

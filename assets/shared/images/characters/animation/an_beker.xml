@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="an beker.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AN Beker  idledance0000" x="0" y="0" width="616" height="770" pivotX="32.6" pivotY="152.55" frameX="-1" frameY="-32" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0001" x="0" y="0" width="616" height="770" frameX="-1" frameY="-32" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0002" x="616" y="0" width="604" height="786" frameX="-1" frameY="-16" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0003" x="616" y="0" width="604" height="786" frameX="-1" frameY="-16" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0004" x="1220" y="0" width="589" height="798" frameX="-3" frameY="-4" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0005" x="1220" y="0" width="589" height="798" frameX="-3" frameY="-4" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0006" x="1809" y="0" width="586" height="802" frameX="-7" frameY="0" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0007" x="1809" y="0" width="586" height="802" frameX="-7" frameY="0" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0008" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0009" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0010" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0011" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0012" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker  idledance0013" x="2395" y="0" width="594" height="795" frameX="0" frameY="-7" frameWidth="617" frameHeight="802"/>
+	<SubTexture name="AN Beker NoteDown0000" x="2989" y="0" width="595" height="582" pivotX="5.7" pivotY="-89.4" frameX="-5" frameY="-124" frameWidth="623" frameHeight="706"/>
+	<SubTexture name="AN Beker NoteDown0001" x="2989" y="0" width="595" height="582" frameX="-5" frameY="-124" frameWidth="623" frameHeight="706"/>
+	<SubTexture name="AN Beker NoteDown0002" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0003" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0004" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0005" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0006" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0007" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0008" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0009" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0010" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0011" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0012" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0013" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0014" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0015" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0016" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0017" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0018" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0019" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0020" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteDown0021" x="0" y="802" width="623" height="706"/>
+	<SubTexture name="AN Beker NoteLeft0000" x="623" y="802" width="571" height="827" pivotX="4.7" pivotY="34.4" frameX="0" frameY="0" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0001" x="623" y="802" width="571" height="827" frameX="0" frameY="0" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0002" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0003" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0004" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0005" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0006" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0007" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0008" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0009" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteLeft0010" x="1194" y="802" width="586" height="804" frameX="-1" frameY="-23" frameWidth="587" frameHeight="827"/>
+	<SubTexture name="AN Beker NoteRight0000" x="1780" y="802" width="584" height="817" pivotX="-60.1" pivotY="22.05" frameX="-10" frameY="0" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0001" x="1780" y="802" width="584" height="817" frameX="-10" frameY="0" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0002" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0003" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0004" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0005" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0006" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0007" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0008" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0009" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0010" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0011" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0012" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0013" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0014" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0015" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0016" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0017" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0018" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0019" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteRight0020" x="2364" y="802" width="591" height="795" frameX="0" frameY="-22" frameWidth="594" frameHeight="817"/>
+	<SubTexture name="AN Beker NoteUp0000" x="2955" y="802" width="624" height="837" pivotX="3.9" pivotY="22.25" frameX="-14" frameY="0" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0001" x="2955" y="802" width="624" height="837" frameX="-14" frameY="0" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0002" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0003" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0004" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0005" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0006" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0007" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0008" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0009" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0010" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0011" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0012" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0013" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0014" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0015" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0016" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0017" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0018" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0019" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+	<SubTexture name="AN Beker NoteUp0020" x="0" y="1639" width="645" height="790" frameX="0" frameY="-47" frameWidth="645" frameHeight="837"/>
+</TextureAtlas>

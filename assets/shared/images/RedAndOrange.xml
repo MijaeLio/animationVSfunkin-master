@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RedAndOrange.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Front instance 10000" x="0" y="0" width="2844" height="939"/>
+	<SubTexture name="Front instance 10001" x="0" y="0" width="2844" height="939"/>
+	<SubTexture name="Front instance 10002" x="2844" y="0" width="2844" height="939"/>
+	<SubTexture name="Front instance 10003" x="2844" y="0" width="2844" height="939"/>
+	<SubTexture name="Front instance 10004" x="0" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10005" x="0" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10006" x="2844" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10007" x="2844" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10008" x="2844" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10009" x="2844" y="939" width="2844" height="939"/>
+	<SubTexture name="Front instance 10010" x="0" y="1878" width="2844" height="939"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-239,
+				-146
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "YellowIdleBlock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-188,
+				-148
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "YellowRightBlock",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-210,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YellowLeftBlock"
+		},
+		{
+			"offsets": [
+				-164,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YellowPlayBlock"
+		},
+		{
+			"offsets": [
+				-164,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YellowPlayBlock"
+		},
+		{
+			"offsets": [
+				-164,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "play",
+			"indices": [],
+			"name": "YellowPlayBlock"
+		},
+		{
+			"offsets": [
+				-239,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "build",
+			"indices": [],
+			"name": "YellowBuild"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/YellowBlock",
+	"position": [
+		-70,
+		-141
+	],
+	"healthicon": "yellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		-340,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

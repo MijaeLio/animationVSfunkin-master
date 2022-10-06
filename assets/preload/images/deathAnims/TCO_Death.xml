@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TCO_Death.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TCO_DEATH instance 10000" x="0" y="0" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10001" x="3483" y="0" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10002" x="0" y="749" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10003" x="3483" y="749" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10004" x="0" y="1498" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10005" x="3483" y="1498" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10006" x="0" y="2247" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10007" x="3483" y="2247" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10008" x="0" y="2996" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10009" x="3483" y="2996" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10010" x="0" y="3745" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10011" x="3483" y="3745" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10012" x="0" y="4494" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10013" x="3483" y="4494" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10014" x="0" y="5243" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10015" x="3483" y="5243" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10016" x="0" y="5992" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10017" x="0" y="6741" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10018" x="3483" y="5992" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10019" x="0" y="6741" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10020" x="3483" y="6741" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10021" x="0" y="6741" width="3483" height="749"/>
+	<SubTexture name="TCO_DEATH instance 10022" x="0" y="6741" width="3483" height="749"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "stage",
+		"player1": "bf-pixel",
+		"player2": "blue",
+		"player3": null,
+		"events": [
+			[
+				17280,
+				[
+					[
+						"Change Scroll Speed",
+						"1.8",
+						"2"
+					]
+				]
+			],
+			[
+				115998.75,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": true,
+		"gfVersion": "gf-pixel",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Thorns"
+	}
+}

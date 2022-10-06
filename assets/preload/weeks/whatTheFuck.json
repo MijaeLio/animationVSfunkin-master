@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"red",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blues groove",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stickin to it",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"repeater",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

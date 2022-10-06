@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RedBand.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red hit 10000" x="0" y="0" width="367" height="508" frameX="65" frameY="-126" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10001" x="367" y="0" width="367" height="508" frameX="65" frameY="-126" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10002" x="734" y="0" width="367" height="520" frameX="65" frameY="-114" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10003" x="1101" y="0" width="367" height="520" frameX="65" frameY="-114" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10004" x="1468" y="0" width="367" height="522" frameX="65" frameY="-112" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10005" x="1835" y="0" width="368" height="522" frameX="65" frameY="-112" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10006" x="2203" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10007" x="2571" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10008" x="2939" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10009" x="2939" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10010" x="3307" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 10011" x="3307" y="0" width="368" height="523" frameX="65" frameY="-111" frameWidth="368" frameHeight="523"/>
+	<SubTexture name="red hit 20000" x="0" y="523" width="434" height="498" frameX="-3" frameY="-134" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20001" x="434" y="523" width="434" height="498" frameX="-3" frameY="-134" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20002" x="868" y="523" width="445" height="495" frameX="0" frameY="-137" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20003" x="1313" y="523" width="445" height="495" frameX="0" frameY="-137" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20004" x="1758" y="523" width="441" height="511" frameX="-3" frameY="-121" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20005" x="2199" y="523" width="441" height="511" frameX="-3" frameY="-121" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20006" x="2640" y="523" width="436" height="517" frameX="-6" frameY="-115" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20007" x="3076" y="523" width="436" height="517" frameX="-6" frameY="-115" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20008" x="3512" y="523" width="431" height="518" frameX="-9" frameY="-114" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20009" x="3512" y="523" width="431" height="518" frameX="-9" frameY="-114" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20010" x="0" y="1041" width="433" height="516" frameX="-7" frameY="-116" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red hit 20011" x="0" y="1041" width="433" height="516" frameX="-7" frameY="-116" frameWidth="445" frameHeight="518"/>
+	<SubTexture name="red idle0000" x="433" y="1041" width="419" height="609" frameX="0" frameY="-23" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0001" x="433" y="1041" width="419" height="609" frameX="0" frameY="-23" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0002" x="852" y="1041" width="413" height="598" frameX="-5" frameY="-34" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0003" x="852" y="1041" width="413" height="598" frameX="-5" frameY="-34" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0004" x="1265" y="1041" width="405" height="617" frameX="-13" frameY="-15" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0005" x="1265" y="1041" width="405" height="617" frameX="-13" frameY="-15" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0006" x="1670" y="1041" width="399" height="627" frameX="-19" frameY="-5" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0007" x="1670" y="1041" width="399" height="627" frameX="-19" frameY="-5" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0008" x="2069" y="1041" width="396" height="631" frameX="-22" frameY="-1" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0009" x="2069" y="1041" width="396" height="631" frameX="-22" frameY="-1" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0010" x="2465" y="1041" width="394" height="632" frameX="-24" frameY="0" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0011" x="2465" y="1041" width="394" height="632" frameX="-24" frameY="0" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0012" x="2465" y="1041" width="394" height="632" frameX="-24" frameY="0" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0013" x="2465" y="1041" width="394" height="632" frameX="-24" frameY="0" frameWidth="419" frameHeight="632"/>
+	<SubTexture name="red idle0014" x="2465" y="1041" width="394" height="632" frameX="-24" frameY="0" frameWidth="419" frameHeight="632"/>
+</TextureAtlas>

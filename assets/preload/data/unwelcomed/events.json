@@ -1,0 +1,340 @@
+{
+	"song": {
+		"speed": 2.4,
+		"composer": "Spoon Dice Music",
+		"stage": "alan",
+		"player1": "bf",
+		"player2": "red_new",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"tween zoom (start)",
+						"1",
+						"17"
+					]
+				]
+			],
+			[
+				15729.1666666667,
+				[
+					[
+						"Play Animation",
+						"looking",
+						"dad"
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Play Animation",
+						"seeingIcon",
+						"dad"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				43333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				46666.6666666667,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				51666.6666666666,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				56666.6666666666,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				58333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				61666.6666666666,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				63333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				66666.6666666666,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				68333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				71666.6666666666,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				76666.6666666667,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				78333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				81666.6666666667,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				83333.3333333333,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				86666.6666666667,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				88333.3333333334,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				91250,
+				[
+					[
+						"tween zoom (start)",
+						"1.50",
+						"0.05"
+					]
+				]
+			],
+			[
+				91666.6666666667,
+				[
+					[
+						"defaultCamZoom (alt bcs it doesnt work for mijae)",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": true,
+		"gfVersion": "gf",
+		"bpm": 144,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Unwelcomed"
+	}
+}

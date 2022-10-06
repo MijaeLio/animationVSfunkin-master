@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-320,
+				-128
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Orange staff idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-278,
+				-208
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Orange staff left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-371,
+				-163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Orange staff right"
+		},
+		{
+			"offsets": [
+				-432,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Orange staff up"
+		},
+		{
+			"offsets": [
+				-320,
+				-198
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Orange staff down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/kingStuff/KingWstaff",
+	"position": [
+		-170,
+		-260
+	],
+	"healthicon": "blue",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		101,
+		0
+	],
+	"camera_position": [
+		250,
+		370
+	],
+	"sing_duration": 6.0,
+	"scale": 0.8
+}

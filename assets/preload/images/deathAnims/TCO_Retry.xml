@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TCO_Retry.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TCO_CONFIRM0000" x="1286" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0001" x="1286" y="1421" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0002" x="1286" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0003" x="1286" y="2327" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0004" x="1286" y="2780" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0005" x="1286" y="3233" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0006" x="1919" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0007" x="1919" y="1421" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0008" x="1919" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0009" x="1919" y="2327" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0010" x="1919" y="2780" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0011" x="1919" y="3233" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0012" x="1919" y="3233" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0013" x="1919" y="3233" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0014" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0015" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0016" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0017" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0018" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0019" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0020" x="2572" y="0" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0021" x="2572" y="453" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0022" x="2552" y="1421" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0023" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0024" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0025" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0026" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0027" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0028" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0029" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0030" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0031" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0032" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0033" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0034" x="2552" y="968" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0035" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0036" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0037" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0038" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0039" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0040" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0041" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0042" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0043" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0044" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0045" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0046" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_CONFIRM0047" x="2552" y="1874" width="633" height="453"/>
+	<SubTexture name="TCO_RETRY0000" x="0" y="0" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0001" x="0" y="484" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0002" x="0" y="968" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0003" x="0" y="1452" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0004" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0005" x="0" y="2420" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0006" x="0" y="2904" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0007" x="0" y="3388" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0008" x="1286" y="0" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0009" x="1286" y="484" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0010" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0011" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0012" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0013" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY0014" x="0" y="1936" width="1286" height="484"/>
+	<SubTexture name="TCO_RETRY IDLE0000" x="2552" y="2327" width="633" height="453"/>
+</TextureAtlas>

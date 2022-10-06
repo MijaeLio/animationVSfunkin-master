@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-260,
+				-315
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TSC idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-324,
+				-343
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TSCright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-272,
+				-468
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TSCdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TSCleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-277
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TSCup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/tsc_guitar",
+	"position": [
+		-80,
+		-240
+	],
+	"healthicon": "tsc",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		102,
+		0
+	],
+	"camera_position": [
+		250,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

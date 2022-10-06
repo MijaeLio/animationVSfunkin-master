@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="white.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="white instance 10000" x="0" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10001" x="2647" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10002" x="5294" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10003" x="0" y="1433" width="2647" height="1433"/>
+	<SubTexture name="white instance 10004" x="0" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10005" x="2647" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10006" x="5294" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10007" x="0" y="1433" width="2647" height="1433"/>
+	<SubTexture name="white instance 10008" x="0" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10009" x="2647" y="0" width="2647" height="1433"/>
+	<SubTexture name="white instance 10010" x="5294" y="0" width="2647" height="1433"/>
+</TextureAtlas>

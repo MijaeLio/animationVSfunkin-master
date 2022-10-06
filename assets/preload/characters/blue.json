@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-371
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-333,
+				-334
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-379,
+				-387
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-415
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-231,
+				-252
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-338
+			],
+			"anim": "potion",
+			"fps": 24,
+			"name": "potion",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/blue",
+	"position": [
+		-80,
+		-240
+	],
+	"healthicon": "blue",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		205,
+		254
+	],
+	"camera_position": [
+		250,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

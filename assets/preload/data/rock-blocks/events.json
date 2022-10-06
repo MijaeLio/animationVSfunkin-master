@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 3,
+		"composer": "Spoon Dice Music",
+		"stage": "alan",
+		"player1": "bf",
+		"player2": "tsc",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Set CamZoom",
+						"0.6",
+						"5"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						"2"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				131906.25,
+				[
+					[
+						"Camera Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"2"
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "couch_tsc",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rock-blocks"
+	}
+}

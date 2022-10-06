@@ -1,0 +1,19 @@
+{
+	"song": {
+		"speed": 2,
+		"composer": "longestsoloever",
+		"stage": "band",
+		"player1": "bf",
+		"player2": "tsc-guitar",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-car",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Band"
+	}
+}

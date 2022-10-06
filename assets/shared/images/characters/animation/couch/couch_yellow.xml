@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Couch_beat_alt3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Couch_beat40000" x="0" y="0" width="941" height="388" frameX="0" frameY="-15" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40001" x="0" y="0" width="941" height="388" frameX="0" frameY="-15" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40002" x="941" y="0" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40003" x="941" y="0" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40004" x="1882" y="0" width="941" height="392" frameX="0" frameY="-11" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40005" x="1882" y="0" width="941" height="392" frameX="0" frameY="-11" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40006" x="2823" y="0" width="941" height="400" frameX="0" frameY="-3" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40007" x="2823" y="0" width="941" height="400" frameX="0" frameY="-3" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40008" x="0" y="400" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40009" x="0" y="400" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40010" x="941" y="400" width="941" height="403"/>
+	<SubTexture name="Couch_beat40011" x="941" y="400" width="941" height="403"/>
+	<SubTexture name="Couch_beat40012" x="941" y="400" width="941" height="403"/>
+	<SubTexture name="Couch_beat40013" x="1882" y="400" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40014" x="1882" y="400" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40015" x="2823" y="400" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40016" x="2823" y="400" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40017" x="0" y="803" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40018" x="0" y="803" width="941" height="387" frameX="0" frameY="-16" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40019" x="941" y="803" width="941" height="392" frameX="0" frameY="-11" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40020" x="941" y="803" width="941" height="392" frameX="0" frameY="-11" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40021" x="1882" y="803" width="941" height="400" frameX="0" frameY="-3" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40022" x="1882" y="803" width="941" height="400" frameX="0" frameY="-3" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40023" x="2823" y="803" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40024" x="2823" y="803" width="941" height="402" frameX="0" frameY="-1" frameWidth="941" frameHeight="403"/>
+	<SubTexture name="Couch_beat40025" x="0" y="1205" width="941" height="403"/>
+	<SubTexture name="Couch_beat40026" x="0" y="1205" width="941" height="403"/>
+	<SubTexture name="Couch_beat40027" x="0" y="1205" width="941" height="403"/>
+	<SubTexture name="Couch_beat40028" x="941" y="1205" width="941" height="403"/>
+	<SubTexture name="Couch_beat40029" x="941" y="1205" width="941" height="403"/>
+</TextureAtlas>

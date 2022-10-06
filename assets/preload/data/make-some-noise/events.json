@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "tdl",
+		"player1": "bf",
+		"player2": "dark-lord",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Set CamZoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				18075,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"Set CamZoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				38100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				75675,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Set CamZoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Set CamZoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Set CamZoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Set CamZoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				133275,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vengeance"
+	}
+}

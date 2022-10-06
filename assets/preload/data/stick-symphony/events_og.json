@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 2,
+		"composer": "longestsoloever",
+		"stage": "band",
+		"player1": "bf",
+		"player2": "tsc-guitar",
+		"player3": null,
+		"events": [
+			[
+				19870.9677419355,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.1"
+					]
+				]
+			],
+			[
+				87935.4838709678,
+				[
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				89225.806451613,
+				[
+					[
+						"Set CamZoom",
+						"0.6",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": true,
+		"gfVersion": "gf-car",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Stick Symphony"
+	}
+}

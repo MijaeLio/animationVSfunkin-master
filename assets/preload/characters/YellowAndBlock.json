@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-66,
+				-44
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "YellowIdleSingBlock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "YellowLeftSingBlock",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-66,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YellowRightSingBlock"
+		},
+		{
+			"offsets": [
+				9,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YellowDownSingBlock"
+		},
+		{
+			"offsets": [
+				-66,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YellowUpSingBlock"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/animation/YellowAndBlock",
+	"position": [
+		100,
+		-35
+	],
+	"healthicon": "yellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		-340,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
